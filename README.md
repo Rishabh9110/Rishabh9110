@@ -30,14 +30,20 @@ Email Me 👉 ✉️ **rrishabh283@gmail.cpm** For Collaboration/Project or Anyt
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Rishabh9110&bg_color=1a1b27&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" /></a>
-<!--new design-->
-<img src="https://i.gifer.com/origin/3e/3e1dba1d83bfa1c252f5f28fe2c7c7d0_w200.gif" width="100%" />
-
-
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="220" valign="middle" style="border: none;">
+      <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="200" style="display: block; border: none;" />
+    </td>
+    <td style="padding-left: 40px; vertical-align: middle; border: none;">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="600" style="display: block; border: none;" />
+    </td>
+  </tr>
+</table>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rishabh9110&limit=5&theme=dark&combine_all_yearly_contributions=true)
