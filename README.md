@@ -30,6 +30,12 @@ Email Me 👉 ✉️ **rrishabh283@gmail.cpm** For Collaboration/Project or Anyt
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Rishabh9110&bg_color=1a1b27&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" /></a>
+<!--new design-->
+<img src="https://i.gifer.com/origin/3e/3e1dba1d83bfa1c252f5f28fe2c7c7d0_w200.gif" width="100%" />
+
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
