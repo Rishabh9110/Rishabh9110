@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Rishabh Raj
-**A passionate Data Engineer || Softwere engineer || Learner
+**A passionate Data Enginee || Learner
 
 Email Me 👉 ✉️ **rrishabh283@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
